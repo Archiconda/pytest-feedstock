@@ -21,6 +21,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/pytest-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pytest-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/pytest-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pytest-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/pytest-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pytest-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32ce7dc05bae0700d32b59/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pytest-feedstock)
 
 Current release info
 ====================
